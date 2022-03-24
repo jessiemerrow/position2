@@ -1,0 +1,30 @@
+.one {
+  background-color: black;
+  width: 700px;
+  height: 400px;
+}
+
+.two {
+  background-color: gray;
+  position: absolute;
+  left: 150px;
+  width: 400px;
+  height: 400px;
+}
+
+.three {
+  background-color: gray;
+  position: absolute;
+  top: 150px;
+  width: 200px;
+  height: 100px;
+}
+
+.four {
+  background-color: gray;
+  position: absolute;
+  top: 150px;
+  left: 508px;
+  width: 200px;
+  height: 100px;
+}
